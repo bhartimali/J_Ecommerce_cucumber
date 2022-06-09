@@ -53,7 +53,7 @@ public class B_Catalog_Product extends BaseClass {
 
 	@Then("It should be open Add product page")
 	public void it_should_be_open_Add_product_page() {
-		Assert.assertEquals(driver.getTitle(), "Add a new prduct / nopCommerce administration");
+		Assert.assertEquals(driver.getTitle(), "Add a new product / nopCommerce administration");
 		logger.info("It should be open Add product page");
 	}
 
