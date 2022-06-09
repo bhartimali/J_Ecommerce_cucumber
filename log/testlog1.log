@@ -3970,3 +3970,528 @@
 2022-06-09 10:40:50,018 [main] INFO E-Commerce - User is on the product page
 2022-06-09 10:40:50,025 [main] INFO E-Commerce - *********Add new Product**************
 2022-06-09 10:40:51,464 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 11:27:15,320 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 11:27:15,721 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 11:27:18,645 [main] INFO E-Commerce - click on the login button
+2022-06-09 11:27:18,689 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 11:27:18,696 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 11:27:18,787 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 11:27:22,102 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 11:27:24,130 [main] INFO E-Commerce - User is on the product page
+2022-06-09 11:27:24,135 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 11:27:25,588 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 11:27:28,632 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 11:27:41,656 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 11:27:46,540 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 11:27:46,605 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 11:28:41,865 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 11:28:42,196 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 11:28:45,625 [main] INFO E-Commerce - click on the login button
+2022-06-09 11:28:45,679 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 11:28:45,690 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 11:28:45,792 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 11:28:49,005 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 11:28:51,032 [main] INFO E-Commerce - User is on the product page
+2022-06-09 11:28:51,039 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 11:28:52,374 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 11:28:55,427 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 17:48:53,034 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 17:48:53,442 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 17:48:56,156 [main] INFO E-Commerce - click on the login button
+2022-06-09 17:48:56,237 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 17:48:56,246 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 17:51:14,014 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 17:51:14,396 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 17:51:18,003 [main] INFO E-Commerce - click on the login button
+2022-06-09 17:51:18,038 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 17:51:18,045 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 17:51:18,150 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 17:51:22,955 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 17:51:24,980 [main] INFO E-Commerce - User is on the product page
+2022-06-09 17:51:24,986 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 17:51:37,755 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 17:51:40,786 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 17:58:20,234 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 17:58:20,616 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 17:58:24,709 [main] INFO E-Commerce - click on the login button
+2022-06-09 17:58:24,757 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 17:58:24,766 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 17:58:24,856 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 17:58:28,567 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 17:58:30,596 [main] INFO E-Commerce - User is on the product page
+2022-06-09 17:58:30,603 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 17:58:32,458 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 17:58:35,489 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 17:58:48,879 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 17:58:55,006 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 17:58:55,123 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 17:59:28,922 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 17:59:29,310 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 17:59:32,323 [main] INFO E-Commerce - click on the login button
+2022-06-09 17:59:32,390 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 17:59:32,402 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 17:59:32,569 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 17:59:36,033 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 17:59:38,051 [main] INFO E-Commerce - User is on the product page
+2022-06-09 17:59:38,056 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 17:59:40,131 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 17:59:43,154 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 17:59:56,765 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:00:01,540 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:00:01,628 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 18:01:23,583 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:01:23,974 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:01:27,848 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:01:27,889 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:01:27,903 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:01:28,051 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:01:31,806 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:01:33,819 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:01:33,822 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:01:36,033 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:01:39,078 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:01:54,802 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:01:59,538 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:01:59,624 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 18:02:28,280 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:02:28,727 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:02:31,954 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:02:32,005 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:02:32,013 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:02:32,120 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:02:35,331 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:02:37,360 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:02:37,367 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:02:39,206 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:02:42,263 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:02:57,801 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:03:02,756 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:03:02,831 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 18:06:37,720 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:06:38,059 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:06:41,257 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:06:41,344 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:06:41,355 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:06:41,461 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:06:45,152 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:06:47,178 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:06:47,185 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:06:50,505 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:06:53,541 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:08:32,187 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:08:32,580 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:08:35,700 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:08:35,768 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:08:35,778 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:08:35,896 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:08:39,469 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:08:41,499 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:08:41,505 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:08:42,958 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:08:46,020 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:09:01,782 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:09:06,538 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:09:06,621 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 18:14:00,045 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:14:00,432 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:14:04,104 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:14:04,152 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:14:05,298 [main] INFO E-Commerce - User click on the logout Link
+2022-06-09 18:14:05,309 [main] INFO E-Commerce - Verify the title of the login page
+2022-06-09 18:14:10,405 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:14:10,832 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:14:14,871 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:14:14,901 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:14:14,905 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:14:15,021 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:14:18,200 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:14:20,211 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:14:20,216 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:14:22,278 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:14:25,337 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:14:41,366 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:14:46,234 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:14:46,331 [main] INFO E-Commerce - Verify the conformation message
+2022-06-09 18:14:50,614 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:14:50,903 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:14:53,698 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:14:53,714 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:14:53,717 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:14:53,829 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:14:57,429 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:14:59,457 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:14:59,461 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:15:01,280 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:15:04,327 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:15:19,659 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:15:24,146 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:15:24,152 [main] INFO E-Commerce - **********Search Product***********
+2022-06-09 18:15:26,378 [main] INFO E-Commerce - User enter product name in the product search box
+2022-06-09 18:15:28,591 [main] INFO E-Commerce - Click on the product search button
+2022-06-09 18:15:28,682 [main] INFO E-Commerce - User should found product name in the Search table:QSXXVGaMxp
+2022-06-09 18:15:33,306 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:15:33,786 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:15:37,533 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:15:37,549 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:15:37,550 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:15:37,656 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:15:40,896 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:15:42,924 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:15:42,928 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:15:44,833 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:15:47,875 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:16:03,586 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:16:08,755 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:16:08,759 [main] INFO E-Commerce - **********Search Product***********
+2022-06-09 18:16:11,091 [main] INFO E-Commerce - User enter product name in the product search box
+2022-06-09 18:16:13,214 [main] INFO E-Commerce - Click on the product search button
+2022-06-09 18:16:13,218 [main] INFO E-Commerce - ************Update Product information********
+2022-06-09 18:16:17,860 [main] INFO E-Commerce - User Click on the serached product Edit button
+2022-06-09 18:16:19,918 [main] INFO E-Commerce - It should be open Edit product detail page
+2022-06-09 18:16:20,368 [main] INFO E-Commerce - User update the product price
+2022-06-09 18:16:24,319 [main] INFO E-Commerce - Click on the product update SAVE button
+2022-06-09 18:16:26,411 [main] INFO E-Commerce - Validate the conformation message
+2022-06-09 18:16:31,260 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:16:31,698 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:16:35,207 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:16:35,283 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:16:35,285 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:16:35,369 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:16:39,210 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:16:41,237 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:16:41,240 [main] INFO E-Commerce - *********Add new Product**************
+2022-06-09 18:16:44,073 [main] INFO E-Commerce - User click on the Add new button
+2022-06-09 18:16:47,090 [main] INFO E-Commerce - It should be open Add product page
+2022-06-09 18:17:02,916 [main] INFO E-Commerce - User fill up the Add product form
+2022-06-09 18:17:07,346 [main] INFO E-Commerce - User click on the product save button
+2022-06-09 18:17:07,349 [main] INFO E-Commerce - **********Search Product***********
+2022-06-09 18:17:09,648 [main] INFO E-Commerce - User enter product name in the product search box
+2022-06-09 18:17:11,898 [main] INFO E-Commerce - Click on the product search button
+2022-06-09 18:17:11,901 [main] INFO E-Commerce - ************Delete Selected information********
+2022-06-09 18:17:12,126 [main] INFO E-Commerce - User check the searched product checkbox
+2022-06-09 18:17:14,320 [main] INFO E-Commerce - User click on the delete button
+2022-06-09 18:17:16,449 [main] INFO E-Commerce - Click on the conform product delete YES button
+2022-06-09 18:17:18,550 [main] INFO E-Commerce - Varify the text in the product table
+2022-06-09 18:17:23,005 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:17:23,355 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:17:26,352 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:17:26,400 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:17:26,403 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:17:26,549 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:17:30,414 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:17:32,432 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:17:32,436 [main] INFO E-Commerce - *********Download Catalog as PDF*************
+2022-06-09 18:17:39,945 [main] INFO E-Commerce - User Click on download catalog button
+2022-06-09 18:17:39,947 [main] INFO E-Commerce - Validate the downloaded catalog pdf
+2022-06-09 18:17:44,734 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:17:45,207 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:17:48,125 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:17:48,170 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:17:48,173 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:17:48,283 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:17:52,087 [main] INFO E-Commerce - User click on the product menu Item
+2022-06-09 18:17:54,103 [main] INFO E-Commerce - User is on the product page
+2022-06-09 18:17:54,107 [main] INFO E-Commerce - ********Export selected product in Excel File********
+2022-06-09 18:17:54,329 [main] INFO E-Commerce - select the product from product table
+2022-06-09 18:17:56,500 [main] INFO E-Commerce - click on the Export droupdown button
+2022-06-09 18:18:00,561 [main] INFO E-Commerce - select the Export to Excel (Selected) option
+2022-06-09 18:18:00,562 [main] INFO E-Commerce - Validate the downloaded product catalog excel file
+2022-06-09 18:18:04,965 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:18:05,514 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:18:08,847 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:18:08,954 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:18:08,956 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:18:09,060 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:18:11,077 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:18:13,977 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:18:14,020 [main] INFO E-Commerce - ****************Add category*********************
+2022-06-09 18:18:15,637 [main] INFO E-Commerce - User click on the Add new Category button
+2022-06-09 18:18:15,639 [main] INFO E-Commerce - It should be open Add new Category Page
+2022-06-09 18:18:15,779 [main] INFO E-Commerce - User Enter the categoryName and Description
+2022-06-09 18:18:19,001 [main] INFO E-Commerce - User Click on the category SAVE button
+2022-06-09 18:18:22,468 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:18:29,022 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:18:29,478 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:18:32,922 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:18:33,010 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:18:33,012 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:18:33,101 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:18:35,119 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:18:36,501 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:18:36,570 [main] INFO E-Commerce - ****************Add category*********************
+2022-06-09 18:18:38,304 [main] INFO E-Commerce - User click on the Add new Category button
+2022-06-09 18:18:38,306 [main] INFO E-Commerce - User Enter the categoryName and Description
+2022-06-09 18:18:41,349 [main] INFO E-Commerce - User Click on the category SAVE button
+2022-06-09 18:18:44,852 [main] INFO E-Commerce - *********Search Category***********
+2022-06-09 18:18:45,089 [main] INFO E-Commerce - User click on the search button
+2022-06-09 18:18:45,262 [main] INFO E-Commerce - User should found the categoryName from the category Table
+2022-06-09 18:18:50,236 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:18:50,766 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:18:54,570 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:18:54,676 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:18:54,680 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:18:54,825 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:18:56,831 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:18:58,379 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:18:58,532 [main] INFO E-Commerce - ****************Add category*********************
+2022-06-09 18:19:00,349 [main] INFO E-Commerce - User click on the Add new Category button
+2022-06-09 18:19:00,350 [main] INFO E-Commerce - User Enter the categoryName and Description
+2022-06-09 18:19:03,573 [main] INFO E-Commerce - User Click on the category SAVE button
+2022-06-09 18:19:07,051 [main] INFO E-Commerce - *********Search Category***********
+2022-06-09 18:19:07,231 [main] INFO E-Commerce - User click on the search button
+2022-06-09 18:19:07,326 [main] INFO E-Commerce - ************Update category Info*************
+2022-06-09 18:19:13,718 [main] INFO E-Commerce - User click on the searched category edit button
+2022-06-09 18:19:13,749 [main] INFO E-Commerce - It should be open Edit category page
+2022-06-09 18:19:16,291 [main] INFO E-Commerce - User update the Category descripton
+2022-06-09 18:19:16,292 [main] INFO E-Commerce - User Click on the category SAVE button
+2022-06-09 18:19:20,071 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:19:24,958 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:19:25,554 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:19:29,462 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:19:29,547 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:19:29,550 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:19:29,648 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:19:31,654 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:19:33,445 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:19:33,482 [main] INFO E-Commerce - ****************Add category*********************
+2022-06-09 18:19:34,607 [main] INFO E-Commerce - User click on the Add new Category button
+2022-06-09 18:19:34,609 [main] INFO E-Commerce - User Enter the categoryName and Description
+2022-06-09 18:19:38,339 [main] INFO E-Commerce - User Click on the category SAVE button
+2022-06-09 18:19:41,805 [main] INFO E-Commerce - *********Search Category***********
+2022-06-09 18:19:41,942 [main] INFO E-Commerce - User click on the search button
+2022-06-09 18:19:42,103 [main] INFO E-Commerce - ***********Delete Category**********
+2022-06-09 18:19:46,874 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:19:47,396 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:19:51,169 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:19:51,184 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:19:51,186 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:19:51,281 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:19:53,292 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:19:54,887 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:19:54,899 [main] INFO E-Commerce - ********Export Category List in Excel File******
+2022-06-09 18:19:57,005 [main] INFO E-Commerce - User click on the Export droupdown
+2022-06-09 18:19:59,718 [main] INFO E-Commerce - User select the Export to excel option
+2022-06-09 18:19:59,719 [main] INFO E-Commerce - Excel file should be downloaded
+2022-06-09 18:20:03,847 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:20:04,341 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:20:07,667 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:20:07,726 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:20:07,727 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:20:07,811 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:20:09,819 [main] INFO E-Commerce - *********Common Steps***********
+2022-06-09 18:20:11,714 [main] INFO E-Commerce - User is on the Categories Page
+2022-06-09 18:20:11,780 [main] INFO E-Commerce - User click on the import button
+2022-06-09 18:20:13,878 [main] INFO E-Commerce - User click on the import button
+2022-06-09 18:20:15,979 [main] INFO E-Commerce - User upload the category excel file
+2022-06-09 18:20:20,227 [main] INFO E-Commerce - User click on the import to excel button
+2022-06-09 18:20:20,263 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:20:24,653 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:20:25,022 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:20:27,870 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:20:28,039 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:20:28,041 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:20:28,136 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:20:30,140 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:20:32,824 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:20:32,838 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:20:32,840 [main] INFO E-Commerce - *********Add new Manufacture*********
+2022-06-09 18:20:34,457 [main] INFO E-Commerce - User click on add new button
+2022-06-09 18:20:34,531 [main] INFO E-Commerce - It should be open add new manufacture page
+2022-06-09 18:20:38,928 [main] INFO E-Commerce - User enter manufacture name
+2022-06-09 18:20:42,877 [main] INFO E-Commerce - User click on manufacture save button
+2022-06-09 18:20:42,916 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:20:47,187 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:20:47,756 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:20:51,474 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:20:51,492 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:20:51,494 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:20:51,657 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:20:53,666 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:20:54,925 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:20:54,970 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:20:54,972 [main] INFO E-Commerce - *********Add new Manufacture*********
+2022-06-09 18:20:56,550 [main] INFO E-Commerce - User click on add new button
+2022-06-09 18:21:01,244 [main] INFO E-Commerce - User enter manufacture name
+2022-06-09 18:21:04,615 [main] INFO E-Commerce - User click on manufacture save button
+2022-06-09 18:21:04,619 [main] INFO E-Commerce - *******Search Manufacture Name*******
+2022-06-09 18:21:06,887 [main] INFO E-Commerce - User Enter the manufature name in the search box
+2022-06-09 18:21:09,200 [main] INFO E-Commerce - User click on the search Manufacture button
+2022-06-09 18:21:09,258 [main] INFO E-Commerce - User should found the categoryName from the category Table
+2022-06-09 18:21:13,947 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:21:14,492 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:21:17,303 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:21:17,425 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:21:17,428 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:21:17,526 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:21:19,533 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:21:21,297 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:21:21,333 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:21:21,335 [main] INFO E-Commerce - *********Add new Manufacture*********
+2022-06-09 18:21:22,540 [main] INFO E-Commerce - User click on add new button
+2022-06-09 18:21:27,607 [main] INFO E-Commerce - User enter manufacture name
+2022-06-09 18:21:31,039 [main] INFO E-Commerce - User click on manufacture save button
+2022-06-09 18:21:31,040 [main] INFO E-Commerce - *******Search Manufacture Name*******
+2022-06-09 18:21:33,162 [main] INFO E-Commerce - User Enter the manufature name in the search box
+2022-06-09 18:21:35,276 [main] INFO E-Commerce - User click on the search Manufacture button
+2022-06-09 18:21:35,279 [main] INFO E-Commerce - ********Update Manufacture Info*******
+2022-06-09 18:21:39,750 [main] INFO E-Commerce - User click on the edit button in the manufactures table
+2022-06-09 18:21:39,848 [main] INFO E-Commerce - It should be open Edit manufacture page
+2022-06-09 18:21:42,286 [main] INFO E-Commerce - User update the manufacture name
+2022-06-09 18:21:45,331 [main] INFO E-Commerce - User click on manufacture save button
+2022-06-09 18:21:45,417 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:21:49,740 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:21:50,386 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:21:54,182 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:21:54,248 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:21:54,250 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:21:54,331 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:21:56,347 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:21:58,162 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:21:58,201 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:21:58,204 [main] INFO E-Commerce - *********Add new Manufacture*********
+2022-06-09 18:22:00,048 [main] INFO E-Commerce - User click on add new button
+2022-06-09 18:22:04,404 [main] INFO E-Commerce - User enter manufacture name
+2022-06-09 18:22:08,342 [main] INFO E-Commerce - User click on manufacture save button
+2022-06-09 18:22:08,344 [main] INFO E-Commerce - *******Search Manufacture Name*******
+2022-06-09 18:22:10,496 [main] INFO E-Commerce - User Enter the manufature name in the search box
+2022-06-09 18:22:12,666 [main] INFO E-Commerce - User click on the search Manufacture button
+2022-06-09 18:22:12,669 [main] INFO E-Commerce - *********Delete Manufacture Info*********
+2022-06-09 18:22:12,843 [main] INFO E-Commerce - User Enter the manufature name in the search box
+2022-06-09 18:22:12,932 [main] INFO E-Commerce - User click on the delete\(Selected) button
+2022-06-09 18:22:13,136 [main] INFO E-Commerce - User click on the conform YES popup button
+2022-06-09 18:22:13,762 [main] INFO E-Commerce - Category should be deleted from the category Table
+2022-06-09 18:22:18,467 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:22:19,086 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:22:22,561 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:22:22,588 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:22:22,589 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:22:22,678 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:22:24,696 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:22:26,560 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:22:26,587 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:22:26,588 [main] INFO E-Commerce - User click on the Export droupdown Manufacture page
+2022-06-09 18:22:28,642 [main] INFO E-Commerce - User select the Export to excel option under droupdown
+2022-06-09 18:22:31,069 [main] INFO E-Commerce - Manufacture List should be downloaded in a excel file
+2022-06-09 18:22:35,901 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:22:36,539 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:22:39,234 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:22:39,349 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:22:39,350 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:22:39,437 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:22:41,450 [main] INFO E-Commerce - *********common Steps*********
+2022-06-09 18:22:43,015 [main] INFO E-Commerce - User click on the Menufactures menu Item
+2022-06-09 18:22:43,062 [main] INFO E-Commerce - User should be on the Menufactures Page
+2022-06-09 18:22:43,064 [main] INFO E-Commerce - User click on the manufacture IMPORT button
+2022-06-09 18:22:45,169 [main] INFO E-Commerce - User upload the Manufacture excel file
+2022-06-09 18:22:47,306 [main] INFO E-Commerce - User click on the import to excel button for upload the file
+2022-06-09 18:22:49,139 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:22:53,846 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:22:54,195 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:22:56,906 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:22:56,978 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:22:56,979 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:22:57,073 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:22:59,085 [main] INFO E-Commerce - ****common Steps****
+2022-06-09 18:23:03,754 [main] INFO E-Commerce - User should be on the product review Page
+2022-06-09 18:23:03,769 [main] INFO E-Commerce - ****Search product review by name****
+2022-06-09 18:23:06,102 [main] INFO E-Commerce - User Enter the product name in the search box
+2022-06-09 18:23:08,302 [main] INFO E-Commerce - User click on the review search button
+2022-06-09 18:23:10,313 [main] INFO E-Commerce - User should found the categoryName from the category Table
+2022-06-09 18:23:15,016 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:23:15,424 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:23:18,450 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:23:18,514 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:23:18,515 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:23:18,604 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:23:20,607 [main] INFO E-Commerce - ****common Steps****
+2022-06-09 18:23:24,163 [main] INFO E-Commerce - User should be on the product review Page
+2022-06-09 18:23:24,183 [main] INFO E-Commerce - ****Search product review by name****
+2022-06-09 18:23:26,432 [main] INFO E-Commerce - User Enter the product name in the search box
+2022-06-09 18:23:28,555 [main] INFO E-Commerce - User click on the review search button
+2022-06-09 18:23:30,559 [main] INFO E-Commerce - ****Update product review Info*******
+2022-06-09 18:23:34,598 [main] INFO E-Commerce - User click on the product review Edit button
+2022-06-09 18:23:34,608 [main] INFO E-Commerce - It should be open Edit product review details page
+2022-06-09 18:23:36,785 [main] INFO E-Commerce - User update the review Text
+2022-06-09 18:23:40,120 [main] INFO E-Commerce - User click on the review SAVE  button
+2022-06-09 18:23:40,151 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:23:44,585 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:23:45,129 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:23:48,942 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:23:49,035 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:23:49,036 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:23:49,112 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:23:51,127 [main] INFO E-Commerce - ****common Steps****
+2022-06-09 18:23:54,941 [main] INFO E-Commerce - User should be on the product review Page
+2022-06-09 18:23:54,960 [main] INFO E-Commerce - ****Search product review by name****
+2022-06-09 18:23:57,211 [main] INFO E-Commerce - User Enter the product name in the search box
+2022-06-09 18:23:59,393 [main] INFO E-Commerce - User click on the review search button
+2022-06-09 18:24:01,406 [main] INFO E-Commerce - **** Approve Selected Product Review*****
+2022-06-09 18:24:01,478 [main] INFO E-Commerce - User check the checkbox of searched product review
+2022-06-09 18:24:03,704 [main] INFO E-Commerce - User click on the approve selected button
+2022-06-09 18:24:05,796 [main] INFO E-Commerce - User should found the tick mark in product review table in is approved field
+2022-06-09 18:24:10,269 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:24:10,724 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:24:13,279 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:24:13,405 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:24:13,407 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:24:13,494 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:24:15,511 [main] INFO E-Commerce - ****common Steps****
+2022-06-09 18:24:19,160 [main] INFO E-Commerce - User should be on the product review Page
+2022-06-09 18:24:19,173 [main] INFO E-Commerce - ****Search product review by name****
+2022-06-09 18:24:21,538 [main] INFO E-Commerce - User Enter the product name in the search box
+2022-06-09 18:24:23,701 [main] INFO E-Commerce - User click on the review search button
+2022-06-09 18:24:25,717 [main] INFO E-Commerce - **** Approve Selected Product Review*****
+2022-06-09 18:24:25,797 [main] INFO E-Commerce - User check the checkbox of searched product review
+2022-06-09 18:24:27,804 [main] INFO E-Commerce - **** DisApprove Selected Product Review*******
+2022-06-09 18:24:27,954 [main] INFO E-Commerce - User click on the DisApprove selected button
+2022-06-09 18:24:29,967 [main] INFO E-Commerce - User should found the Cross mark in product review table in is approved field
+2022-06-09 18:24:34,546 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:24:34,969 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:24:38,052 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:24:38,074 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:24:38,076 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:24:38,152 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:24:40,164 [main] INFO E-Commerce - ****common Steps****
+2022-06-09 18:24:43,773 [main] INFO E-Commerce - User should be on the product review Page
+2022-06-09 18:24:43,787 [main] INFO E-Commerce - **** Delete Selected Product Review*******
+2022-06-09 18:24:44,034 [main] INFO E-Commerce - User click on the Delete selected button
+2022-06-09 18:24:44,143 [main] INFO E-Commerce - User click on the conform Yes popup button
+2022-06-09 18:24:48,500 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:24:48,890 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:24:52,311 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:24:52,356 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:24:52,357 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:24:52,508 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:24:54,514 [main] INFO E-Commerce - *****common Steps*****
+2022-06-09 18:24:59,101 [main] INFO E-Commerce - User should be on the product tags Page
+2022-06-09 18:24:59,103 [main] INFO E-Commerce - //*****Search product tag by tag name*****
+2022-06-09 18:25:01,343 [main] INFO E-Commerce - User enter the product tag name
+2022-06-09 18:25:03,521 [main] INFO E-Commerce - User click on the search tag button
+2022-06-09 18:25:03,581 [main] INFO E-Commerce - User should found the tag name in the tag table
+2022-06-09 18:25:07,997 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:25:08,392 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:25:12,420 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:25:12,511 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:25:12,512 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:25:12,591 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:25:14,598 [main] INFO E-Commerce - *****common Steps*****
+2022-06-09 18:25:18,184 [main] INFO E-Commerce - User should be on the product tags Page
+2022-06-09 18:25:18,186 [main] INFO E-Commerce - *****Update product tag name*****
+2022-06-09 18:25:22,619 [main] INFO E-Commerce - User click on the tag edit button
+2022-06-09 18:25:22,625 [main] INFO E-Commerce - It should be open tag edit page
+2022-06-09 18:25:24,898 [main] INFO E-Commerce - User update the tag name
+2022-06-09 18:25:24,899 [main] INFO E-Commerce - User Click on the tag save button
+2022-06-09 18:25:28,749 [main] INFO E-Commerce - Validate the Conformation message
+2022-06-09 18:25:33,746 [main] INFO E-Commerce - User is already on the login page
+2022-06-09 18:25:34,286 [main] INFO E-Commerce - User Enter email id and password
+2022-06-09 18:25:37,820 [main] INFO E-Commerce - click on the login button
+2022-06-09 18:25:37,876 [main] INFO E-Commerce - Verify the title of the Dashbord
+2022-06-09 18:25:37,877 [main] INFO E-Commerce - *********Common Steps**************
+2022-06-09 18:25:37,951 [main] INFO E-Commerce - User click on the Catalog Menu
+2022-06-09 18:25:39,955 [main] INFO E-Commerce - *****common Steps*****
+2022-06-09 18:25:44,112 [main] INFO E-Commerce - User should be on the product tags Page
+2022-06-09 18:25:44,114 [main] INFO E-Commerce - *****Delete product tag name*****
+2022-06-09 18:25:44,367 [main] INFO E-Commerce - User check the checkbox of tag name in the table
+2022-06-09 18:25:46,513 [main] INFO E-Commerce - User click on the tag delete\(Selected) button
+2022-06-09 18:25:48,603 [main] INFO E-Commerce - User click on the conform YES delete button
+2022-06-09 18:25:48,604 [main] INFO E-Commerce - Tag name should be deleted from the table

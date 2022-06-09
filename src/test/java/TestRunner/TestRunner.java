@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = {"./src/test/java/Feature/B_Catalog_Product.feature",},
+		features = {"./src/test/java/Feature",},
 		glue = {"StepDefinations"},
 		plugin = { "pretty", "json:target/cucumber-reports/Cucumber.json", // generate the diffrent
 				"junit:target/cucumber-reports/Cucumber.xml",// reports
@@ -15,8 +15,8 @@ import io.cucumber.junit.CucumberOptions;
 				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 		publish = true,
 		monochrome = true, 
-		dryRun = false,
-		tags = "@AddNewProduct"
+		dryRun = false
+		//tags = "@AddNewProduct"
 				)
 public class TestRunner {
 	

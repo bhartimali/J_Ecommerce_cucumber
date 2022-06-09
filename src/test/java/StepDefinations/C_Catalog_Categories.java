@@ -47,6 +47,8 @@ public class C_Catalog_Categories extends BaseClass{
 	@When("User Enter the categoryName and Description")
 	public void user_enter_the_category_name_and_description() throws InterruptedException {
 		logger.info("User Enter the categoryName and Description");
+		//open the product category tab
+		driver.findElement(By.id("category-info")).click();
 		categoryPage.setCategoryName(CategoryName);
 		Thread.sleep(2000);
 		categoryPage.setCategoryDesc("It's computer Category");
@@ -114,6 +116,7 @@ public class C_Catalog_Categories extends BaseClass{
 	@When("User check the searched category checkbox")
 	public void user_check_the_category_s_checkbox_in_the_category_table() throws InterruptedException {
 		logger.info("***********Delete Category**********");
+		Thread.sleep(2000);
 	    driver.findElement(By.xpath("//td[text() = '"+CategoryName+"']/preceding-sibling::td/child::input")).click();
 	    Thread.sleep(2000);
 	    logger.info("User check the searched category checkbox");

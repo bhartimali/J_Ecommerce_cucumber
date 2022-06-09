@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="21.037">
-    <testcase classname="Product feature" name="Add new Product into Application" time="20.423">
-        <failure message="expected:&lt;Add a new pr[o]duct / nopCommerce a...&gt; but was:&lt;Add a new pr[]duct / nopCommerce a...&gt;" type="org.junit.ComparisonFailure"><![CDATA[Given User is already on the login page.....................................passed
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="27" time="714.47">
+    <testcase classname="Login Feature" name="Login in the applications" time="10.595">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+Then User click on the logout Link..........................................passed
+Then LoginPage Title should be "Your store. Login"..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Add new Product into Application" time="40.997">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
 When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
 And User click on the login button..........................................passed
 Then Page title should be "Dashboard / nopCommerce administration"..........passed
@@ -9,17 +18,428 @@ When User click on the Catalog Menu.........................................pass
 And User click on the product menu Item.....................................passed
 Then User is on the products page...........................................passed
 Given User click on the Add new button......................................passed
-Then It should be open Add product page.....................................failed
-When User fill up the Add product form......................................skipped
-And User click on the product save button...................................skipped
-Then Verify the conformation message "The new product has been added successfully.".skipped
+Then It should be open Add product page.....................................passed
+When User fill up the Add product form......................................passed
+And User click on the product save button...................................passed
+Then Verify the conformation message "The new product has been added successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Search a product from product List" time="42.296">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User click on the Add new button......................................passed
+Then It should be open Add product page.....................................passed
+When User fill up the Add product form......................................passed
+And User click on the product save button...................................passed
+When User enter product name in the product search box......................passed
+And Click on the product search button......................................passed
+Then User should found product name in the Search table.....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Update a product information" time="57.669">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User click on the Add new button......................................passed
+Then It should be open Add product page.....................................passed
+When User fill up the Add product form......................................passed
+And User click on the product save button...................................passed
+When User enter product name in the product search box......................passed
+And Click on the product search button......................................passed
+When User Click on the serached product Edit button.........................passed
+Then It should be open Edit product detail page.............................passed
+When User update the product price..........................................passed
+And Click on the product update SAVE button.................................passed
+Then Validate the conformation message as "The product has been updated successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Delete selected Product from product table" time="52.056">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User click on the Add new button......................................passed
+Then It should be open Add product page.....................................passed
+When User fill up the Add product form......................................passed
+And User click on the product save button...................................passed
+When User enter product name in the product search box......................passed
+And Click on the product search button......................................passed
+When User check the searched product checkbox...............................passed
+And User click on the delete button.........................................passed
+And Click on the conform product delete YES button..........................passed
+Then Varify the text in the product table as "No data available in table"...passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Download Calatalog as PDF" time="21.37">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User click on the Download calatlog as PDF button.....................passed
+Then Validate the downloaded catalog PDF....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product feature" name="Export selected product in Excel File" time="20.557">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User select the product from product table............................passed
+When User click on the Export droupdown button..............................passed
+When User select the Export to Excel(Selected) option.......................passed
+Then Validate the downloaded product catalog excel file.....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Add Product Categories" time="22.48">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the Add new Category button.............................passed
+Then It should be open Add new Category Page................................passed
+When User Enter the categoryName and Description............................passed
+And User Click on the category SAVE button..................................passed
+Then Conformation message should be "The new category has been added successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Search category from categories Table" time="22.364">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the Add new Category button.............................passed
+When User Enter the categoryName and Description............................passed
+And User Click on the category SAVE button..................................passed
+When User enter the category name in the search input box...................passed
+And User click on the category search button................................passed
+Then User should found the categoryName from the category Table.............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Update the added category" time="34.533">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the Add new Category button.............................passed
+When User Enter the categoryName and Description............................passed
+And User Click on the category SAVE button..................................passed
+When User enter the category name in the search input box...................passed
+And User click on the category search button................................passed
+When User click on the searched category edit button........................passed
+Then It should be open Edit category page...................................passed
+When User update the Category descripton....................................passed
+And User Click on the category SAVE button..................................passed
+Then It should be displya the conformation msg "The category has been updated successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Delete added category" time="22.648">
+        <failure message="stale element reference: element is not attached to the page document&#10;  (Session info: chrome=102.0.5005.63)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-HA18O7J', ip: '10.0.0.253', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\Himanshu\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 7cab424d11ce8a0e5d508e897c55ead8" type="org.openqa.selenium.StaleElementReferenceException"><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the Add new Category button.............................passed
+When User Enter the categoryName and Description............................passed
+And User Click on the category SAVE button..................................passed
+When User enter the category name in the search input box...................passed
+And User click on the category search button................................passed
+When User check the searched category checkbox..............................failed
+And User click on the delete(Selected) button...............................skipped
+When User click on the conform YES popup button.............................skipped
+Then Display the msg in the Category table should be "No data available in table".skipped
 
 StackTrace:
-org.junit.ComparisonFailure: expected:<Add a new pr[o]duct / nopCommerce a...> but was:<Add a new pr[]duct / nopCommerce a...>
-	at org.junit.Assert.assertEquals(Assert.java:117)
-	at org.junit.Assert.assertEquals(Assert.java:146)
-	at StepDefinations.B_Catalog_Product.it_should_be_open_Add_product_page(B_Catalog_Product.java:56)
-	at ✽.It should be open Add product page(file:///D:/Eclipse/Eclipse%20Project/J_Ecommerce_cucumber/./src/test/java/Feature/B_Catalog_Product.feature:15)
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA18O7J', ip: '10.0.0.253', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.63, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\Himanshu\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cab424d11ce8a0e5d508e897c55ead8
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at StepDefinations.C_Catalog_Categories.user_check_the_category_s_checkbox_in_the_category_table(C_Catalog_Categories.java:119)
+	at ✽.User check the searched category checkbox(file:///D:/Eclipse/Eclipse%20Project/J_Ecommerce_cucumber/./src/test/java/Feature/C_Catalog_Categories.feature:49)
 ]]></failure>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Export Category List in Excel file" time="16.844">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the Export droupdown....................................passed
+When User select the Export to excel option.................................passed
+Then Excel file should be downloaded........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Categories Feature in the application" name="Import Category from Excel File" time="20.587">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Categories menu Item..................................passed
+Then User should be on the Categories Page..................................passed
+Given User click on the import button.......................................passed
+When User upload the category excel file....................................passed
+And User click on the import to excel button................................passed
+Then Message should be Display as "Categories have been imported successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Add new manufacture name" time="22.612">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on add new button..........................................passed
+Then It should be open add new manufacture page.............................passed
+When User enter manufacture name............................................passed
+And User click on manufacture save button...................................passed
+Then Message should be display as "The new manufacturer has been added successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Search manufacture name from manufacture table" time="26.379">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on add new button..........................................passed
+When User enter manufacture name............................................passed
+And User click on manufacture save button...................................passed
+When User Enter the manufature name in the search box.......................passed
+And User click on the search Manufacture button.............................passed
+Then User should be found the manufacture name from the manufacture Table...passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Update the Manufacture name" time="36.075">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on add new button..........................................passed
+When User enter manufacture name............................................passed
+And User click on manufacture save button...................................passed
+When User Enter the manufature name in the search box.......................passed
+And User click on the search Manufacture button.............................passed
+And User click on the edit button in the manufactures table.................passed
+Then It should be open Edit manufacture page................................passed
+When User update the manufacture name.......................................passed
+And User click on manufacture save button...................................passed
+Then Conformation msg should be "The manufacturer has been updated successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Delete added Manufacture" time="28.297">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on add new button..........................................passed
+When User enter manufacture name............................................passed
+And User click on manufacture save button...................................passed
+When User Enter the manufature name in the search box.......................passed
+And User click on the search Manufacture button.............................passed
+When User check the searched manufacture checkbox...........................passed
+And User click on the manufacture delete button.............................passed
+When User click on the manufacture conform YES popup button.................passed
+Then Display the Message in the manufacture table should be "No data available in table".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Export Manufacture List in Excel file" time="17.265">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on the Export droupdown Manufacture page...................passed
+When User select the Export to excel option under droupdown.................passed
+Then Manufacture List should be downloaded in a excel file..................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Manufacture feature" name="Import Manufacture List from Excel File" time="18.137">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the Menufactures menu Item................................passed
+Then User should be on the Menufactures Page................................passed
+Given User click on the manufacture IMPORT button...........................passed
+When User upload the Manufacture excel file.................................passed
+And User click on the import to excel button for upload the file............passed
+Then Import file Message should be "Manufacturers have been imported successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Review Feature" name="Search product review by product name" time="21.09">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product review menu Item..............................passed
+Then User should be on the product review Page..............................passed
+Given User Enter the product name in the search box.........................passed
+And User click on the review search button..................................passed
+Then User should found the product reviews in the reviews table.............passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Review Feature" name="Update product review detail" time="29.747">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product review menu Item..............................passed
+Then User should be on the product review Page..............................passed
+Given User Enter the product name in the search box.........................passed
+And User click on the review search button..................................passed
+When User click on the searched product review Edit button..................passed
+Then It should be open Edit product review details page.....................passed
+When User update the review Text............................................passed
+And User click on the review SAVE  button...................................passed
+Then Conformation message should be displayed as "The product review has been updated successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Review Feature" name="Approve Selected Product Review" time="25.687">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product review menu Item..............................passed
+Then User should be on the product review Page..............................passed
+Given User Enter the product name in the search box.........................passed
+And User click on the review search button..................................passed
+Then User check the checkbox of searched product review.....................passed
+And User click on the approve selected button...............................passed
+Then User should found the tick mark in product review table in is approved field.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Review Feature" name="Approve Selected Product Review 2" time="24.237">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product review menu Item..............................passed
+Then User should be on the product review Page..............................passed
+Given User Enter the product name in the search box.........................passed
+And User click on the review search button..................................passed
+Then User check the checkbox of searched product review.....................passed
+And User click on the DisApprove selected button............................passed
+Then User should found the Cross mark in product review table in is approved field.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Review Feature" name="Delete selected Product review" time="14.334">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product review menu Item..............................passed
+Then User should be on the product review Page..............................passed
+Given User check the checkbox of product review in the table................passed
+When User click on the review Delete selected button........................passed
+And User click on the conform review delete YES button......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Tag feature" name="Search product tag by tag name" time="19.111">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product Tags menu Item................................passed
+Then User should be on the product tags Page................................passed
+Given User enter the product tag name in the searchbox......................passed
+When User click on the search tag button....................................passed
+Then User should found the tag name in the tag table........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Tag feature" name="Update product tag name" time="25.403">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product Tags menu Item................................passed
+Then User should be on the product tags Page................................passed
+Given User click on the tag edit button.....................................passed
+Then It should be open tag edit page........................................passed
+When User update the tag name...............................................passed
+And User Click on the tag SAVE button.......................................passed
+Then Updated Conformation message should be "The product tag has been updated successfully.".passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Product Tag feature" name="Delete the selected product tag name" time="19.643">
+        <system-out><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product Tags menu Item................................passed
+Then User should be on the product tags Page................................passed
+Given User check the checkbox of tag name in the table......................passed
+When User click on the tag delete(Selected) button..........................passed
+And User click on the conform YES delete button.............................passed
+Then Tag name should be deleted from the table..............................passed
+]]></system-out>
     </testcase>
 </testsuite>

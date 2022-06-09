@@ -17,7 +17,7 @@ import org.junit.Assert;
 public class B_Catalog_Product extends BaseClass {
 
 	public String productName = GenerateProductName();
-	//public static String searchproduct = GenerateProductName();
+	
 	
 	// *********Common Steps**************
 	@When("User click on the Catalog Menu")
@@ -59,13 +59,17 @@ public class B_Catalog_Product extends BaseClass {
 
 	@When("User fill up the Add product form")
 	public void user_fill_up_the_product_form() throws InterruptedException {
-
+		//open the product info tab
+		driver.findElement(By.id("product-info")).click();
+		Thread.sleep(2000);
 		productPage.setProductName(productName);
 		Thread.sleep(2000);
 		productPage.setShortDescription("Write code here that turns the phrase");
 		Thread.sleep(2000);
 		productPage.setCategory();
 		Thread.sleep(2000);
+		//open the product price tab
+		driver.findElement(By.id("product-price")).click();
 		productPage.setPrice("100");
 		Thread.sleep(2000);
 		logger.info("User fill up the Add product form");

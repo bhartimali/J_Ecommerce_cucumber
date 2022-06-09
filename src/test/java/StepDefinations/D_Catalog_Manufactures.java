@@ -47,6 +47,9 @@ public class D_Catalog_Manufactures extends BaseClass {
 
 	@When("User enter manufacture name")
 	public void user_enter_manufacture_name() throws InterruptedException {
+		//open the product category tab
+		driver.findElement(By.id("manufacturer-info")).click();
+		Thread.sleep(2000);
 		manufacturePage.setMenufactureName(ManufactureName);
 		Thread.sleep(2000);
 		logger.info("User enter manufacture name");
