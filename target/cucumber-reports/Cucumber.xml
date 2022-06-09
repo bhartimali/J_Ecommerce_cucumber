@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="21.037">
+    <testcase classname="Product feature" name="Add new Product into Application" time="20.423">
+        <failure message="expected:&lt;Add a new pr[o]duct / nopCommerce a...&gt; but was:&lt;Add a new pr[]duct / nopCommerce a...&gt;" type="org.junit.ComparisonFailure"><![CDATA[Given User is already on the login page.....................................passed
+When User Enters the emailid as "admin@yourstore.com" and password as "admin".passed
+And User click on the login button..........................................passed
+Then Page title should be "Dashboard / nopCommerce administration"..........passed
+When User click on the Catalog Menu.........................................passed
+And User click on the product menu Item.....................................passed
+Then User is on the products page...........................................passed
+Given User click on the Add new button......................................passed
+Then It should be open Add product page.....................................failed
+When User fill up the Add product form......................................skipped
+And User click on the product save button...................................skipped
+Then Verify the conformation message "The new product has been added successfully.".skipped
+
+StackTrace:
+org.junit.ComparisonFailure: expected:<Add a new pr[o]duct / nopCommerce a...> but was:<Add a new pr[]duct / nopCommerce a...>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at StepDefinations.B_Catalog_Product.it_should_be_open_Add_product_page(B_Catalog_Product.java:56)
+	at ✽.It should be open Add product page(file:///D:/Eclipse/Eclipse%20Project/J_Ecommerce_cucumber/./src/test/java/Feature/B_Catalog_Product.feature:15)
+]]></failure>
+    </testcase>
+</testsuite>
