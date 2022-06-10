@@ -4495,3 +4495,127 @@
 2022-06-09 18:25:46,513 - E-Commerce -INFO - User click on the tag delete\(Selected) button
 2022-06-09 18:25:48,603 - E-Commerce -INFO - User click on the conform YES delete button
 2022-06-09 18:25:48,604 - E-Commerce -INFO - Tag name should be deleted from the table
+2022-06-09 19:31:56,097 - E-Commerce -INFO - User is already on the login page
+2022-06-09 19:31:56,439 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 19:32:00,231 - E-Commerce -INFO - click on the login button
+2022-06-09 19:32:00,245 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 19:32:00,250 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 19:32:00,388 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 19:32:02,397 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 19:32:02,398 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 19:32:02,554 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 19:32:04,452 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 19:32:04,508 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 19:32:05,762 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 19:32:05,845 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 19:32:06,173 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 19:32:07,609 - E-Commerce -INFO - Validate the Conformation message
+2022-06-09 19:50:56,255 - E-Commerce -INFO - User is already on the login page
+2022-06-09 19:50:56,600 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 19:51:12,062 - E-Commerce -INFO - click on the login button
+2022-06-09 19:51:12,076 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 19:51:12,082 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 19:51:12,206 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 19:51:14,211 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 19:51:14,211 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 19:51:14,297 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 19:51:17,042 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 19:51:17,122 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 19:51:20,903 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 19:51:21,010 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 19:51:21,144 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 19:51:23,128 - E-Commerce -INFO - *****Update product Attribute Info******
+2022-06-09 19:51:23,128 - E-Commerce -INFO - User click on the added attribute Edit button
+2022-06-09 19:51:26,626 - E-Commerce -INFO - It should be open Edit product attribute details page
+2022-06-09 19:51:26,718 - E-Commerce -INFO - User updates the attribute description
+2022-06-09 19:53:59,152 - E-Commerce -INFO - User is already on the login page
+2022-06-09 19:53:59,543 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 19:54:03,537 - E-Commerce -INFO - click on the login button
+2022-06-09 19:54:03,573 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 19:54:03,583 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 19:54:03,683 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 19:54:05,692 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 19:54:05,693 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 19:54:05,835 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 19:54:07,048 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 19:54:07,151 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 19:54:08,785 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 19:54:08,882 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 19:54:09,044 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 19:54:10,746 - E-Commerce -INFO - *****Update product Attribute Info******
+2022-06-09 19:54:10,746 - E-Commerce -INFO - User click on the added attribute Edit button
+2022-06-09 19:54:12,506 - E-Commerce -INFO - It should be open Edit product attribute details page
+2022-06-09 19:54:12,667 - E-Commerce -INFO - User updates the attribute description
+2022-06-09 19:54:13,266 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 19:54:14,655 - E-Commerce -INFO - Validate the Conformation message
+2022-06-09 20:12:58,785 - E-Commerce -INFO - User is already on the login page
+2022-06-09 20:12:59,106 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 20:13:02,966 - E-Commerce -INFO - click on the login button
+2022-06-09 20:13:02,984 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 20:13:02,990 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 20:13:03,119 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 20:13:05,139 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 20:13:05,140 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 20:13:05,288 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 20:13:07,911 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 20:13:07,953 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 20:13:09,169 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 20:13:09,179 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 20:13:09,386 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 20:13:10,263 - E-Commerce -INFO - *******Delete product Attribute*******
+2022-06-09 20:13:10,264 - E-Commerce -INFO - User click on the added attribute checkbox
+2022-06-09 20:13:10,628 - E-Commerce -INFO - User click on the attribute delete button
+2022-06-09 20:13:10,705 - E-Commerce -INFO - User click on the conform attribute delete button
+2022-06-09 20:14:51,409 - E-Commerce -INFO - User is already on the login page
+2022-06-09 20:14:51,796 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 20:14:55,188 - E-Commerce -INFO - click on the login button
+2022-06-09 20:14:55,206 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 20:14:55,213 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 20:14:55,346 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 20:14:57,355 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 20:14:57,355 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 20:14:57,458 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 20:14:58,759 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 20:14:58,799 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 20:15:00,300 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 20:15:00,406 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 20:15:00,539 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 20:15:02,188 - E-Commerce -INFO - Validate the Conformation message
+2022-06-09 20:15:08,031 - E-Commerce -INFO - User is already on the login page
+2022-06-09 20:15:08,342 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 20:15:11,494 - E-Commerce -INFO - click on the login button
+2022-06-09 20:15:11,505 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 20:15:11,507 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 20:15:11,622 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 20:15:13,629 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 20:15:13,630 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 20:15:13,736 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 20:15:14,667 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 20:15:15,051 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 20:15:16,639 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 20:15:16,656 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 20:15:16,855 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 20:15:18,178 - E-Commerce -INFO - *****Update product Attribute Info******
+2022-06-09 20:15:18,179 - E-Commerce -INFO - User click on the added attribute Edit button
+2022-06-09 20:15:20,333 - E-Commerce -INFO - It should be open Edit product attribute details page
+2022-06-09 20:15:20,485 - E-Commerce -INFO - User updates the attribute description
+2022-06-09 20:15:20,928 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 20:15:21,705 - E-Commerce -INFO - Validate the Conformation message
+2022-06-09 20:15:26,590 - E-Commerce -INFO - User is already on the login page
+2022-06-09 20:15:26,931 - E-Commerce -INFO - User Enter email id and password
+2022-06-09 20:15:31,470 - E-Commerce -INFO - click on the login button
+2022-06-09 20:15:31,477 - E-Commerce -INFO - Verify the title of the Dashbord
+2022-06-09 20:15:31,479 - E-Commerce -INFO - *********Common Steps**************
+2022-06-09 20:15:31,593 - E-Commerce -INFO - User click on the Catalog Menu
+2022-06-09 20:15:33,603 - E-Commerce -INFO - *******Common Steps*******
+2022-06-09 20:15:33,603 - E-Commerce -INFO - User click on the Attribute menu Item
+2022-06-09 20:15:33,700 - E-Commerce -INFO - User click on the Product Attribute sub menu
+2022-06-09 20:15:35,139 - E-Commerce -INFO - User should be on the Product attribute Page
+2022-06-09 20:15:35,211 - E-Commerce -INFO - User click on the attribute add new button
+2022-06-09 20:15:37,204 - E-Commerce -INFO - User should be on add new product attribute page
+2022-06-09 20:15:37,316 - E-Commerce -INFO - User Enter the attribute name
+2022-06-09 20:15:37,441 - E-Commerce -INFO - User click on the attribute SAVE button
+2022-06-09 20:15:38,811 - E-Commerce -INFO - *******Delete product Attribute*******
+2022-06-09 20:15:38,813 - E-Commerce -INFO - User click on the added attribute checkbox
+2022-06-09 20:15:39,252 - E-Commerce -INFO - User click on the attribute delete button
+2022-06-09 20:15:39,342 - E-Commerce -INFO - User click on the conform attribute delete button

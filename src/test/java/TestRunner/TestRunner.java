@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = {"./src/test/java/Feature",},
+		features = {"./src/test/java/Feature/G_Catalog_productAttributes.feature",},
 		glue = {"StepDefinations"},
 		plugin = { "pretty", "json:target/cucumber-reports/Cucumber.json", // generate the diffrent
 				"junit:target/cucumber-reports/Cucumber.xml",// reports
@@ -16,7 +16,7 @@ import io.cucumber.junit.CucumberOptions;
 		publish = true,
 		monochrome = true, 
 		dryRun = false
-		//tags = "@AddNewProduct"
+		//tags = "@DeleteAttrbute"
 				)
 public class TestRunner {
 	

@@ -4,8 +4,6 @@ import java.io.File;
 import java.util.Properties;
 import org.apache.commons.lang.RandomStringUtils;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import PageObject.A_loginPage;
 import PageObject.B_Catalog_ProductPage;
@@ -13,8 +11,7 @@ import PageObject.C_Catalog_CategoriesPage;
 import PageObject.D_Catalog_ManufacturePage;
 import PageObject.E_Catalog_ProductReviewPage;
 import PageObject.F_Catalog_ProductTagPage;
-import io.cucumber.java.AfterStep;
-import io.cucumber.java.Scenario;
+import PageObject.G_Catalog_productAttrPage;
 
 public class BaseClass {
 	
@@ -29,6 +26,7 @@ public class BaseClass {
 	public D_Catalog_ManufacturePage manufacturePage;
 	public E_Catalog_ProductReviewPage productReviewPage;
 	public F_Catalog_ProductTagPage ProductTagPage ;
+	public G_Catalog_productAttrPage productAttrPage;
 	
 	public String GenerateProductName() {
 		String generateProductName = RandomStringUtils.randomAlphabetic(10);
